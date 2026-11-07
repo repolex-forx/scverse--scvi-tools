@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "scvi-tools",
+  "versions": [
+    {
+      "commit": "a83b4d09c20c6e1ab32633138014e9b9755cc488",
+      "tag": "",
+      "parsed_at": "2026-11-07T21:56:51.062890+00:00"
+    }
+  ]
+}
